@@ -1,4 +1,4 @@
-## How I got C# to work with Godot (Full Tutorial)
+## How I got C# to work with Godot! (GameDev Stories)
 
 I am a hobbyist game developer. While researching for an appropriate game engine, I finalized a few for production, namely [Unity](https://unity3d.com/get-unity/download), [Unreal](https://www.unrealengine.com/en-US/auth?state=https://www.unrealengine.com/en-US/eulacheck/publishing) *(ps, you need to make an epic ID and login with it to download)* and  [Godot](https://godotengine.org/), of which I chose to make with Godot, for more reasons than one. 
 
