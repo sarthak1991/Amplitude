@@ -33,5 +33,5 @@ Et voila. Now any script that you attach in your godot project, as long as it is
 
 ------------------
 
-Hello, I am ***Sarthak Batra***. I have been a software engineer for 6 years now but I've only just began blogging about it, so I *am* prone to errors by making it unclear or confusing. If you think this blog does NOT sufficiently explains the subject it says, reach out to me on my twitter at www.twitter.com/sarthakbatra and I'll be more than happy to help. After all, when we learn together and help each other, we all grow! 
+Hello, I am ***Sarthak Batra***. I have been a software engineer for over 6 years now but I've only just began blogging about it, so I *am* prone to errors by making it unclear or confusing. If you think this blog does NOT sufficiently explains the subject it says, reach out to me on my twitter at www.twitter.com/sarthakbatra and I'll be more than happy to help. After all, when we learn together and help each other, we all grow! 
 
