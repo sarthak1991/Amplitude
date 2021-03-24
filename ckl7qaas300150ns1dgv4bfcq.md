@@ -11,18 +11,8 @@ This is going to be a short, simple and targeted blog. **Solution First, explana
   "type": "module"
 ``` 
 Such that your package.json loos something like below
-```
-{
-  "name": "ES6_modules_example",
-  "version": "0.1.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "start": "node server",
-  }
-}
 
-```
+![es6_module_example.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1616588704378/WWndvcfOb.png)
 
 Et Voila. 
 
