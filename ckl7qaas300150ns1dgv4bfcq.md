@@ -10,11 +10,25 @@ This is going to be a short, simple and targeted blog. **Solution First, explana
 ```
   "type": "module"
 ``` 
+Such that your package.json loos something like below
+```
+{
+  "name": "ES6_modules_example",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server",
+  }
+}
+
+```
 
 Et Voila. 
 
 **Still here? Looking for explanation. Read on.** 
 
+## Compatibility
 Since Node v13 and above, NodeJS has an experimental support for ES Modules by default as declared [here](https://nodejs.org/docs/latest-v13.x/api/esm.html#esm_enabling), ie, Node will treat the following as ES modules when passed to node as the initial input, or when referenced by import statements within ES module code :- 
 
 
