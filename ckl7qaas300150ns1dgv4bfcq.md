@@ -8,10 +8,7 @@ This is going to be a short, simple and targeted blog. **Solution First, explana
 2. In the package.json file, paste the following before dependencies 
 
 ```
-
   "type": "module"
-
-
 ``` 
 
 Et Voila. 
