@@ -11,4 +11,4 @@ docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=admin --platform=linux/x86_6
 And now your container should form and run smoothly. 
 
 Caveats --> 
-This is not an ideal approach. This is essentially using an emulator to run the container and that causes its own issues like poor performance. If you'd like me to discuss problems with this approach and ideal solutions, let me know and I'll write another blog about it. 
+This is not an ideal approach. This is essentially using an emulation of the host machine to run the container and that causes its own issues like poor performance. If you'd like me to discuss problems with this approach and ideal solutions, let me know and I'll write another blog about it. 
