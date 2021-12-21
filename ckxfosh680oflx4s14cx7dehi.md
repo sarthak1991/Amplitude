@@ -9,7 +9,7 @@ For example, when you need to quickly setup a Express Rest API server using Post
 ```
 docker run --rm --name postgres-db -p 5433:5432 -e POSTGRES_PASSWORD=mysecretpassword -d postgres:13-alpine
 ``` 
-***Please Note:*** we're mapping port *5432* to *5433*. This is intentional and serves to drive understanding of how ports works. The explanation is below: 
+***Please Note:*** we're mapping port *5432* of the container to port *5433* of your local machine/system/computer on which you are writing code. This is intentional and serves to drive understanding of how ports works. The explanation is below: 
 
 - ```postgres-db``` is the name of the container you spin up. 
 - ```5432``` is the default port at which postgres runs. You can, if you so wish, map your system's port to container's port. In this case, ```5433``` is the port at which you will find the server on your local machine. 
