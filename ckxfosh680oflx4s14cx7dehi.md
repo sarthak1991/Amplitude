@@ -7,7 +7,7 @@ Sometimes, we just need to set up a postgres database server, and if you have do
 For example, when you need to quickly setup a Express Rest API server using PostGres with Prisma, like I need to do today. Here's how you do it. 
 
 ```
-docker run --rm --name postgres-db -p 5432:5433 -e POSTGRES_PASSWORD=mysecretpassword -d postgres:13-alpine
+docker run --rm --name postgres-db -p 5433:5432 -e POSTGRES_PASSWORD=mysecretpassword -d postgres:13-alpine
 ``` 
 ***Please Note:*** we're mapping port *5432* to *5433*. This is intentional and serves to drive understanding of how ports works. The explanation is below: 
 
